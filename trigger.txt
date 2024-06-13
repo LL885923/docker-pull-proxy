@@ -1,1 +1,1 @@
-alpine:latest registry.cn-shenzhen.aliyuncs.com/rocky-linux/alpine:latest
+busybox:latest registry.cn-shenzhen.aliyuncs.com/rocky-linux/busybox:latest
