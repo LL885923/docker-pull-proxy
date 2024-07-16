@@ -1,1 +1,1 @@
-busybox:latest registry.cn-shenzhen.aliyuncs.com/rocky-linux/busybox:latest
+busybox:latest registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:latest
