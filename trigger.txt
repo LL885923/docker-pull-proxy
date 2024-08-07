@@ -1,1 +1,1 @@
-busybox:latest registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:latest
+redis:latest registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:redis
