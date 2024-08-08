@@ -1,1 +1,1 @@
-redis:latest registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:redis
+node:20.11-alpine3.19 registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:node20
