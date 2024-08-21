@@ -1,1 +1,1 @@
-postgres:12-bullseye registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:postgres12
+ubuntu:20.04 registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:ubuntu20.04
