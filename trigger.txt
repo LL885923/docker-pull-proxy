@@ -1,1 +1,1 @@
-node:20.11-alpine3.19 registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:node20
+postgres:12-bullseye registry.cn-hangzhou.aliyuncs.com/lxl_test/lxl_test:postgres12
